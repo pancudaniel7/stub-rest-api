@@ -1,0 +1,40 @@
+{
+   "organizations":[
+      {
+         "id":1,
+         "name":"GoDaddy",
+         "phone":"+40232244181",
+         "email":null,
+         "organizationType":{
+            "id":1,
+            "name":"Internet domain registrar"
+         },
+         "address":{
+            "street":"Bulevardul Carol",
+            "number":"3",
+            "postalCode":"700506",
+            "country":"Romania",
+            "city":"Iasi",
+            "province":"Iasi"
+         },
+         "contacts":[
+            {
+               "id":1,
+               "firstName":"Pancu",
+               "lastName":"Daniel",
+               "phone":"+40751750503",
+               "email":"dpancu@godaddy.com",
+               "address":{
+                  "street":"Vanatori",
+                  "number":"3",
+                  "postalCode":"700352",
+                  "country":"Romania",
+                  "city":"Iasi",
+                  "province":"Iasi"
+               },
+               "organization":null
+            }
+         ]
+      }
+   ]
+}
